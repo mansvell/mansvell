@@ -1,5 +1,5 @@
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./greetings.gif" alt="Hello World" />
+    <img src="./welcome.gif" alt="Hello World" />
 </p>
 
 <h1 align="center">
@@ -12,8 +12,8 @@
 </p>
 
 ## About me
-- 🌱 I’m currently deepening my knowledge of **Linux Server Administration, Spring-Framework and DevOps**
-- 👯 2025 Goals: obtaining certifications for my various skills
-- 🧖‍♂️ Hobbies: Football, Mangas, Programming, Travel
+- 🌱 I have very good knowledge of Java, C#, Python, CSS, Vert.X, HTML, SQL, Markdown,... 
+- 👯 2025 Goals: Get a job as a working student, and deepen my knowledge in android studio to develop a practical android app
+- 🧖‍♂️ Hobbies: Football ,video games, reading books, Programming
 
 <br>
