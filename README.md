@@ -1,27 +1,26 @@
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./welcome.gif" alt="Hello World" />
-</p>
 
 <h1 align="center">
-    Hi there<img src='./wave.gif' height='26' alt='there'>, I'm mansvell
+    Hi there , I'm Mansvell 
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I'm+a+young+student+and+passionate+about+computer+science"
- alt="Welcome to my GitHub Profile. I'm a young student and passionate about computer science and software engineering" />
+ alt="Welcome to my GitHub Profile. I'm a young student and passionate about computer science " />
 </p>
+<br>
 
-## About me
-- 🌱 I have very good knowledge of Java, C#, Python, CSS, Vert.X, HTML, SQL, Markdown,... 
-- 👯 2025 Goals: Get a job as a working student, and deepen my knowledge in android studio to develop a practical android app
-- 🧖‍♂️ Hobbies: Football ,video games, reading books, Programming
-
+<h2> About me </h2> 
+<ul>
+    <li>🌱 I have very good knowledge of Java, C#, Python, CSS, Vert.X, HTML, SQL, Markdown,...  </li>
+    <li>👯 2025 Goals: Get a job as a working student, and deepen my knowledge in android studio to develop a practical android app </li>
+    <li>🧖‍♂️ Hobbies: Football ,video games, reading books, Programming </li>
+</ul>
 <br>
 
 
 ## Dev Languages and Tools: 
  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="55%">
 
 ### Frontend
 <div align="center">  
@@ -33,7 +32,7 @@
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="80%">
     
 ### Backend  
 <div align="center">  
@@ -48,7 +47,7 @@
     <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"></code>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="80%">
 
     
 ### DevOps  
@@ -68,8 +67,6 @@
 <div align="center">
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg"></code>
-<!-- PlantUML -->
-<code><img height="60" src="https://plantuml.com/favicon.svg" alt="PlantUML"></code>
 <!-- Markdown -->
 <code><img height="60" src="https://cdn.jsdelivr.net/gh/dcurtis/markdown-mark@master/svg/markdown-mark.svg" ></code>
 <!-- PHP -->
