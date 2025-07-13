@@ -11,9 +11,9 @@
 
 <h2> About me </h2> 
 <ul>
-    <li>🌱 I have very good knowledge of Java, C#, Python, CSS, Vert.X, HTML, SQL, Markdown,...  </li>
-    <li>👯 2025 Goals: Get a job as a working student, and deepen my knowledge in android studio to develop a practical android app </li>
-    <li>🧖‍♂️ Hobbies: Football ,video games, reading books, Programming </li>
+    <li>🔥 I have very good knowledge of Java, Kotlin, C#, Python, CSS, Vert.X, HTML, SQL, Markdown, JS,...  </li>
+    <li>🔥 2025 Goals: Get a job as a working student, and deepen my knowledge in android studio to develop a practical android app </li>
+    <li>🔥 Hobbies: Football ,video games, reading books, Programming </li>
 </ul>
 <br>
 
@@ -45,6 +45,7 @@
     <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg"></code>
     <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"></code>
     <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"></code>
+    <code><img height="50" src="https://img.shields.io/badge/Room%20Database-Android%20Jetpack-3DDC84?logo=android&logoColor=white" alt="Room DB"></code>
 </div>
 
 </td><td valign="top" width="80%">
