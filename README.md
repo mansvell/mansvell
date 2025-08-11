@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    Hi there , I'm Mansvell 
+    Hi there , I'm Mansvell Nkwanga
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -11,7 +11,7 @@
 
 <h2> About me </h2> 
 <ul>
-    <li>🔥 I have very good knowledge of Java, Kotlin, C#, Python, CSS, Vert.X, HTML, SQL, Markdown, JS,...  </li>
+    <li>🔥 I have very good knowledge of Java, Kotlin, C, Python, CSS, Vert.X, HTML, SQL, Markdown, JS,...  </li>
     <li>🔥 2025 Goals: Get a job as a working student, and deepen my knowledge in android studio to develop a practical android app </li>
     <li>🔥 Hobbies: Football ,video games, reading books, Programming </li>
 </ul>
