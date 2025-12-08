@@ -12,8 +12,9 @@
 <h2> About me </h2> 
 <ul>
     <li>🔥 I have very good knowledge of Java, Kotlin, C, Python, CSS, Vert.X, HTML, SQL, Markdown, JS,...  </li>
-    <li>🔥 2025 Goals: Get a job as a working student, and deepen my knowledge in android studio to develop a practical android app </li>
+    <li>🔥 2025 Goals: Get a job as a working student Softwareentwicklung </li>
     <li>🔥 Hobbies: Football ,video games, reading books, Programming </li>
+    <li>(Bmk: meine commits von juni bis september erscheinen nicht aud die Grafik wegen ein Mailproblem</li>
 </ul>
 <br>
 
