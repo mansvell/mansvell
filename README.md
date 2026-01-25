@@ -37,7 +37,7 @@
     
 ### Backend  
 <div align="center">  
-    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png?20230616230349"></code>
+    <code><img height="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/spring-boot-icon.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vertx/vertx-original.svg" style="filter: invert(1)"></code>
 </div>  
