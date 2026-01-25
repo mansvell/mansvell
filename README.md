@@ -23,7 +23,8 @@
 <table><tr><td valign="top" width="55%">
 
 ### Frontend
-<div align="center">  
+<div align="center"> 
+     <code><img height="50" src="https://th.bing.com/th/id/R.31b0f106251056ff7476c12eeb53c02a?rik=redKZdvLnSOHug&pid=ImgRaw&r=0"></code>
   <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"></code>
     <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"></code>
   <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"></code>
@@ -36,12 +37,14 @@
     
 ### Backend  
 <div align="center">  
+    <code><img height="50" src="https://i0.wp.com/image.pngaaa.com/546/2459546-middle.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vertx/vertx-original.svg" style="filter: invert(1)"></code>
 </div>  
 
 ### Database  
 <div align="center">  
+    <code><img height="50" src="https://logospng.org/download/sqlite/sqlite-512.png"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg"></code>
     <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"></code>
     <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"></code>
@@ -53,7 +56,7 @@
     
 ### DevOps  
 <div align="center">  
-
+<code><img height="50" src="https://www.clipartmax.com/png/middle/146-1469802_logo-logo-docker.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
