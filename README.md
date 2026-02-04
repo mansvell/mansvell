@@ -11,9 +11,9 @@
 
 <h2> About me </h2> 
 <ul>
-    <li>🔥 I have very good knowledge of Java, Kotlin, C, Python, CSS, Vert.X, HTML, SQL, Markdown, JS,...  </li>
+    <li>🔥I have very good knowledge of Java, Kotlin, C, Python, CSS, VerteX, HTML, SQL, Markdown, JS, ... </li>
     <li>🔥2026 Goals: Get a job as a working student Softwareentwicklung </li>
-    <li>🔥 Hobbies: Football ,video games, reading books, Programming </li>
+    <li>🔥Hobbies: Football ,video games, reading books, Programming </li>
 </ul>
 <br>
 
