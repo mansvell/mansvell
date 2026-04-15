@@ -20,13 +20,13 @@
 
 ## Dev Languages and Tools: 
  
-<table><tr><td valign="top" width="55%">
+<table><tr><td valign="top" width="40%">
 
 ### Frontend
 <div align="center"> 
      <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg"></code>
     <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"></code>
-    code><img height="50" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"></code>
+    <img height="50" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg">
   <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"></code>
     <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"></code>
   <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"></code>
@@ -41,6 +41,7 @@
     <code><img height="50" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/spring-boot-icon.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vertx/vertx-original.svg" style="filter: invert(1)"></code>
+    <code><img height="50" src="https://w7.pngwing.com/pngs/211/216/png-transparent-fastapi-hd-logo.png"></code>
 </div>  
 
 ### Database  
@@ -91,7 +92,7 @@
 <!-- Android Studio -->
 <code><img height="50" src="https://developer.android.com/static/studio/images/studio-icon.svg"></code>
 <!-- PyCharm -->
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"></code>
+<code><img height="50" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
 <!-- CLion -->
 <code><img height="50" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png"></code>
 <!-- Eclipse -->
