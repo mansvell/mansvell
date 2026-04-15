@@ -24,12 +24,13 @@
 
 ### Frontend
 <div align="center"> 
-     <code><img height="50" src="https://th.bing.com/th/id/R.31b0f106251056ff7476c12eeb53c02a?rik=redKZdvLnSOHug&pid=ImgRaw&r=0"></code>
+     <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg"></code>
+    <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"></code>
+    code><img height="50" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"></code>
   <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"></code>
     <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"></code>
   <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"></code>
   <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"></code>
-  <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 </div>
 
@@ -83,7 +84,7 @@
 
 <br>
 
-## My Tools & Technologies
+## My Tools & IDEs
 <div align="center">
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></code>
