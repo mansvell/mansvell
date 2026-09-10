@@ -87,8 +87,8 @@
 
 ## My Tools & IDEs
 <div align="center">
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="50" src="https://th.bing.com/th/id/OIP.7Y2By7Z-07NNuaKf4NKmpwHaEV?w=308&h=180&c=7&r=0&o=7&pid=1.7&rm=3"></code>
+<code><img height="50" src="https://th.bing.com/th/id/OIP.nGq5coeAQHN_t_ek9KdzGgHaHa?w=181&h=181&c=7&r=0&o=7&pid=1.7&rm=3"></code>
 <!-- Android Studio -->
 <code><img height="50" src="https://developer.android.com/static/studio/images/studio-icon.svg"></code>
 <!-- PyCharm -->
